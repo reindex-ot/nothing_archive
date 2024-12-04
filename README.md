@@ -1,6 +1,6 @@
 # Nothing Snapdragon OTA Archive
 
-A comprehensive collection of unmodified stock OTA images for Nothing & CMF by Nothing devices powered by the Snapdragon Mobile (SDM) platform.
+A comprehensive collection of unmodified stock OTA images for [Nothing](https://nothing.tech/) & [CMF by Nothing](https://cmf.tech) devices powered by the Snapdragon Mobile (SDM) platform.
 
 ---
 
