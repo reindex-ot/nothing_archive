@@ -205,7 +205,7 @@
 
 - **[luk1337](https://github.com/luk1337/oplus_archive)**: Incremental OTA の抽出を可能にした AOSP の OTA 抽出ツールの先駆者です。
 - **[arter97](https://github.com/arter97/nothing_archive)**: アップデートを Nothing Phone (2) に対応させることに貢献をしました。
-- **[LukeSkyD](https://github.com/LukeSkyD)**: イタリア語の翻訳の提供と [Nothing Phone (1) - Repo](https://xdaforums.com/t/nothing-phone-1-repo-nos-ota-img-guide-root.4464039/) のメンテナンスを行ってくれました。このアーカイブを管理している間、デバイスの以前のビルドバージョンのリファレンスにも貢献してくれました。
+- **[LukeSkyD](https://github.com/LukeSkyD)**: イタリア語訳の提供と [Nothing Phone (1) - Repo](https://xdaforums.com/t/nothing-phone-1-repo-nos-ota-img-guide-root.4464039/) のメンテナンスを行ってくれました。このアーカイブを管理している間、デバイスの以前のビルドバージョンのリファレンスにも貢献してくれました。
 - **[Re*Index.(ot_inc)](https://github.com/reindex-ot)**: 日本語訳の提供、リポジトリを幅広いユーザーにアクセスできるようにサポートをしました。
 
 ---
