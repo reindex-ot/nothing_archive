@@ -21,13 +21,13 @@
 ## 目次 📑  
 
 - [プロジェクトについて](#プロジェクトについて-)
-- [免責事項](#disclaimer-)
-- [説明](#notes-)
-- [カテゴリー](#categorization-)
-- [ダウンロード](#downloads-)
-- [Fastboot を使用した Stock ROM の Flash](#flashing-the-stock-rom-using-fastboot-)
-- [謝辞](#acknowledgments-)
-- [プロジェクトをサポート](#support-the-project-)
+- [免責事項](#免責事項-)
+- [説明](#説明-)
+- [カテゴリー](#カテゴリー-)
+- [ダウンロード](#ダウンロード-)
+- [Fastboot を使用した Stock ROM の Flash](#Fastbootを使用したStockROMのFlash-)
+- [謝辞](#謝辞-)
+- [プロジェクトをサポート](#プロジェクトをサポート-)
 
 ---
 
@@ -278,7 +278,7 @@ Select your **device model** from the dropdown list below to access it's **Relea
 
 ---
 
-## Flashing the Stock ROM Using Fastboot ⚡
+## Fastbootを使用したStockROMのFlash ⚡
 
 ### A. Preparation of Flashing Folder
 - Download the following files from the assets section of the releases for the corresponding device model and firmware build, and place them in a dedicated folder:
@@ -309,7 +309,7 @@ Select your **device model** from the dropdown list below to access it's **Relea
 
 ---
 
-## Acknowledgments 🤝  
+## 謝辞 🤝  
 
 Special thanks to these contributors for their invaluable work and support:  
 - **[luk1337](https://github.com/luk1337/oplus_archive)** – Pioneered the use of AOSP’s OTA extraction tool, enabling the extraction of incremental OTA updates.
@@ -320,7 +320,7 @@ Special thanks to these contributors for their invaluable work and support:
 
 ---
 
-## Support the Project ⭐ 
+## プロジェクトをサポート ⭐ 
 
 If this archive has been helpful, please consider **[starring the repository](https://github.com/spike0en/nothing_archive/stargazers)**. Your support helps keep the project discoverable and active!  
 
